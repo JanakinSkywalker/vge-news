@@ -1,0 +1,547 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.main_medie{
+/*	background-color: blue;							Skal Slættes			 */
+	width: 318px; 
+	margin:0 auto; 
+	padding: 10px 0;  /* BLiver overskrevet*/
+	
+}
+
+.main_medie a {
+	color: black;
+	text-decoration: none;
+	display: block;
+}
+
+
+.main_medie a:visited {
+	color: black; 
+}
+
+.main_medie a:visited {
+	color: black; 
+
+}
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+.main_medie section.blue_box {
+	width: 318px;
+	border-bottom: 1px dotted grey;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.main_medie section.blue_box a h1 { 
+	width: 318px;
+	background: #0372A8;
+	padding: 10px; 
+	margin: 0;
+	color: white;
+	font-weight: normal;
+
+}
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+.main_medie section.two_small_boxes {
+	width: 318px;
+	border-bottom: 1px dotted grey; 
+	margin-bottom: 10px;
+}
+	
+.main_medie section.two_small_boxes div.box_1,section.two_small_boxes div.box_2  {
+		width: 154px; 
+		float: left;
+	 /* background-color: #0372A8; 	*/			
+}
+.main_medie section.two_small_boxes h3 {
+	padding: 10px;
+	margin: 0;
+
+}
+	
+.main_medie section.two_small_boxes .box_2 {
+		margin-left:10px;
+}
+	
+.main_medie section.two_small_boxes	img {
+	width: 100%;
+}
+	
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+.main_medie .one_medium_box {
+
+	width: 318px;
+	border-bottom: 1px dotted grey;
+	margin-bottom: 10px;
+}
+	
+.main_medie .one_medium_box img {
+	width: 318px; 
+}
+.main_medie .one_medium_box a h1 {
+	margin: 0;
+	padding: 10px;
+}
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+.main_medie section.weekdays section {
+	width: 154px; 
+	border-bottom: 1px dotted grey;
+	margin-bottom:10px;
+	padding-bottom: 10px;
+	float: left;
+}
+.main_medie section.weekdays section.margin {
+	margin-left: 10px;
+}
+.main_medie section.weekdays section div.po {
+	width: 154px;
+	
+	 
+}
+
+.main_medie section.weekdays section img {
+	width: 154px;  
+	
+	
+}
+
+.main_medie section.weekdays section a h3 {
+	color: black;
+	font-size: 0.8em;
+	
+	margin: 0;	
+}
+.main_medie section.weekdays section a h3 span.red {
+	color: #771351;
+}
+.main_medie section.weekdays section a h1 {
+	color:#0372A8;
+	margin: 2px 0 0 0;
+	
+	font-size: 1.5em;
+	text-align: center;
+}
+
+
+.main_medie section.weekdays section h3 {
+	margin: 2px 0;
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.main_medie section.grey_box {
+	width: 318px;
+	border-bottom: 1px dotted grey;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+.main_medie section.grey_box a h1 { 
+	width: 318px;
+	background: #E5E5E5;
+
+	padding: 10px; 
+	margin: 0;
+
+
+}
+
+
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+.main_medie section.two_boxes_moving_video {
+	width: 318px; 
+	border-bottom: 1px dotted grey;
+	margin-bottom: 10px;
+
+
+}
+
+
+.main_medie section.two_boxes_moving_video div.one, section.two_boxes_moving_video div.two {
+	width: 154px;
+	float: left;
+    cursor:pointer;
+}
+
+.main_medie section.two_boxes_moving_video div.one {
+	margin-right: 10px;
+}
+
+.main_medie section.two_boxes_moving_video div ul {
+	
+}
+
+.main_medie section.two_boxes_moving_video div ul li {
+	list-style-type: none;
+	
+}
+
+.main_medie section.two_boxes_moving_video div img{	
+	width: 154px;
+}
+
+
+.main_medie section.two_boxes_moving_video div ul.video {
+	margin: 0; padding: 0; /* VIGTIGT Dont know why */
+}
+
+.main_medie section.two_boxes_moving_video ul.video li h3 span {
+	color: #879F0A;
+}
+.main_medie section.two_boxes_moving_video ul.video li  {
+
+	
+}
+.main_medie section.two_boxes_moving_video ul.video li h3 {
+	width: 154px;
+	padding:0;
+	margin: 10px 0;
+	font-size:15px;
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+.main_medie aside.right_side {
+	width: 318px;
+}
+
+.main_medie aside.right_side section {
+	width: 318px;
+	
+	border-bottom: 1px dotted grey;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+.main_medie aside.right_side section img {
+	width: 154px;
+	float: left;
+}
+.main_medie aside.right_side section div {
+	width: 154px;
+	float: left;
+	margin-left: 10px;
+}
+.main_medie aside.right_side section div a h1 {
+	font-size: 1.2em;
+	margin: 0;
+	padding: 0 5px 0 0;
+}
+
+
+.main_medie aside.right_side section div a h3 {
+	font-size: .75em;
+	margin: 0;
+	padding: 0 5px 0 0;
+}
+.main_medie aside.right_side section div a h1 span.red {
+	color: #771551;
+}
+
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.main_medie span.galleri_byline {
+	font-style:italic;
+    font-weight:200;
+    font-size:.9em;
+}
+
+
+
+
+
+
+
+
+/* ==========================================================================
+   EXAMPLE Media Queries for Responsive Design.
+   These examples override the primary ('mobile first') styles.
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+	
+	
+	.main_medie{
+	
+		width: 940px; 
+		padding: 10px 0;
+	}	
+
+	.main_medie .float_main {
+		width: 620px;
+		float:left;
+	}
+   
+	/*------------------------------------------------------------------------------------------------*/   
+	/*
+	section.blue_box {
+		width: 620px;
+		border-bottom: 1px dotted grey;
+		margin-bottom: 10px;
+	
+	}
+
+	section.blue_box a h1 { 
+		width: 940px;
+
+		padding: 10px; 
+		margin: 0;
+
+	}*/
+
+	/*------------------------------------------------------------------------------------------------*/   
+
+	.main_medie section.two_small_boxes {
+		width: 620px;
+
+	}
+	
+	.main_medie section.two_small_boxes div.box_1,section.two_small_boxes div.box_2  {
+			width: 300px; 
+			float: left;
+
+	}
+
+	.main_medie section.two_small_boxes .box_2 {
+			margin-left:20px;
+	}
+	
+	/*------------------------------------------------------------------------------------------------*/   	
+   
+	/*.main_medie .one_medium_box {
+
+		width: 620px;
+
+	}
+	
+	.main_medie .one_medium_box img {
+		width: 620px; 
+	}*/
+
+	/*------------------------------------------------------------------------------------------------*/   	
+
+	.main_medie section.weekdays section {
+		width: 620px; 
+		border-bottom: 1px dotted grey;
+		float: left;
+	
+	}
+	.main_medie section.weekdays section div.popup_img {
+		width: 620px; 
+	
+	}
+	
+	.main_medie section.weekdays section div.text {
+		width: 400px;
+		float: right; 
+ 
+	}
+
+	.main_medie section.weekdays section img {
+		width: 210px; 
+		float: right; 
+		margin-left: 10px;
+	
+	}
+
+	.main_medie section.weekdays section a h3 {
+		color: black;
+		font-size: 1.17em;
+	
+	}
+	.main_medie section.weekdays section a h1 {
+		color:#0372A8;
+		margin: 0;
+		padding: 0px;
+		text-align: left;
+	}
+
+
+	.main_medie section.weekdays section h3 {
+		margin:  0;
+	}
+
+
+	.main_medie section.weekdays section.margin {
+		margin-left: 0px;
+	}
+	
+	.main_medie section.two_boxes_moving_video ul.video li h3 span {
+		color: #879F0A;
+	}
+	.main_medie section.two_boxes_moving_video ul.video li img {
+		margin: 0;
+	
+	}
+
+
+
+
+	/*------------------------------------------------------------------------------------------------*/  
+
+	/*
+
+	.main_medie section.grey_box {
+		width: 620px;
+		border-bottom: 1px dotted grey;
+		float:left;
+	
+	
+	}
+	.main_medie section.grey_box a{
+		width: 620px;
+
+	}
+
+
+	.main_medie section.grey_box a h1 { 
+		padding: 10px; 
+		margin: 0;
+
+	}
+	*/
+
+   
+	/*------------------------------------------------------------------------------------------------*/     
+   
+   
+
+	.main_medie section.two_boxes_moving_video {
+		width: 620px; 
+			padding-bottom: 10px;
+	}
+
+	.main_medie section.two_boxes_moving_video div.one, section.two_boxes_moving_video div.two {
+		width: 300px;
+		float:left;
+		
+	}
+
+
+	.main_medie section.two_boxes_moving_video div.one{
+		margin-right: 20px;
+	}
+	.main_medie section.two_boxes_moving_video div.two { 
+		width: 300px;
+		float:left;
+	
+		}
+	
+	.main_medie section.two_boxes_moving_video div.one img, section.two_boxes_moving_video div.two img { 
+	 	width: 140px;
+	 	float:left;
+ 	
+	 	}
+		
+		.main_medie section.two_boxes_moving_video ul.video li {
+			
+			padding: 0;
+			margin: 0;
+		}
+		
+	.main_medie section.two_boxes_moving_video ul.video li h3 {
+		width:140px;
+		float:left;
+		font-size: 1.17em;
+		margin: 0;
+		margin-left: 10px;
+	
+		
+		
+	}
+
+	/*------------------------------------------------------------------------------------------------*/   	
+
+
+
+	.main_medie aside.right_side {
+		width: 300px;
+		float:right;
+	}
+	.main_medie aside.right_side h1 {
+		background: #333333;
+		color: white;
+		margin: 0 0 10px 0;
+		padding: 10px 0; 
+		text-align: center;
+		font-weight: normal;
+		font-style: italic;
+	}
+	.main_medie aside.right_side section {
+		width: 300px;
+	
+		border-bottom: 1px dotted grey;
+		padding-bottom: 10px;
+		margin-bottom: 10px;
+	}
+	.main_medie aside.right_side section img {
+		width: 300px;
+
+	}
+	.main_medie aside.right_side section div {
+		width: 300px;
+			margin-left: 0px;
+	
+	}
+	.main_medie aside.right_side section div a h1 {
+		background: none;
+		font-size: 2em;
+		margin: 0;
+		padding: 0;
+		text-align: left;
+		font-weight: bold;
+		font-style: normal;
+	}
+
+
+	.main_medie aside.right_side section div a h3 {
+		font-size: 1.2em;
+		margin: 0;
+		padding: 0:
+	}
+	.main_medie aside.right_side section div a h1 span.red {
+		color: #771551;
+	}
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+}

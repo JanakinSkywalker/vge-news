@@ -1,0 +1,39 @@
+.sekartikel1 {width: 338px;}
+
+.artikel1 { 
+	width: 338px;
+	background: #E5E5E5;
+	margin:0 10px;
+	border-bottom: 1px dotted grey;
+	margin-bottom: 10px;
+	}
+
+.artikel1 h1 {
+	padding: 10px; 	  
+}
+
+.sekaktikel1billede {
+	margin-top: 10px; 
+	margin-left: 10px; 
+	border-bottom: 1px dotted grey;}
+	
+.sekaktikel1billede img {width: 318px; }
+
+.main{
+	background-color: white;
+	width: 338px; 
+	margin:0 auto; }
+	
+	.box {
+		width: 154px; 
+		border-bottom: 1px dotted grey; 
+	}
+	.main img {width: 100%}
+	
+.left { float: left;   }
+.right {float: left;   }
+.box {margin-left:10px }
+a{color: black; text-decoration: none;}
+
+
+    /* Her er starten på en artikel */
